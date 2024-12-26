@@ -1,0 +1,1 @@
+export const API_URL = "https://api.github.com/users/pranjaljaiswal10/repos?per_page=50";
