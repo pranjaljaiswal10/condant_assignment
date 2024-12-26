@@ -5,6 +5,7 @@
 
 input{
   outline: auto;
+  outline-color: lightgray;
 }
 
 .shadow-cardAuth{
